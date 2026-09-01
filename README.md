@@ -351,7 +351,7 @@ python complete_metrics.py
 
 ## 🙌 Acknowledgements
 
-This work was conducted at **IDEAS — Indian Statistical Institute Kolkata**, under the mentorship of **Dr. Sujoy K Biswas**. The authors gratefully acknowledge the Simula Research Laboratory for making the Kvasir-Capsule dataset publicly available.
+This work was conducted at **IDEAS - Indian Statistical Institute Kolkata**, under the mentorship of **Dr. Sujoy K Biswas**. The authors gratefully acknowledge the Simula Research Laboratory for making the Kvasir-Capsule dataset publicly available.
 
 ---
 
